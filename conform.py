@@ -1,4 +1,4 @@
-#This script is written by ALPER
+## Junior Dev: Alper
 #Programming for the Puzzled -- Srini Devadas
 #You Will All Conform
 #Input is a vector of F's and B's, in terms of forwards and backwards caps
